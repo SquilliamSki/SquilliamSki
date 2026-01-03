@@ -1,9 +1,20 @@
-- 👋 Hi, I’m Will
-- 👀 I’m interested in ... many things but the top of my list for now is my new SRE role at Sovos
-- 🌱 I’m currently learning ... Git, BitBucket, AppD, and Splunk
-- 💞️ I’m looking to collaborate on ... my own personal and work projects
+# Hi there, I'm Will 👋
 
-<!---
-SquilliamSki/SquilliamSki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Technical Support Engineer based in **Boston, MA**.
+
+### 🛠 Tech Stack
+* **Languages:** Python (Primary)
+* **Tools:** Git, Docker, VS Code, AWS, and really anything I can get my hands on
+
+### 🔭 Current Projects
+* **[Marvel Snap Daily Reward Claimer]**: A simple side project put together to avoid the need to auto claim the daily rewards every single day.
+* **[Discord RPG Idle Game]**: A more ambitious project that will be contained within your discord server, more to come on this.
+
+### ⚡ Fun Facts
+* 📍 Currently living in the heart of Boston.
+* 🐍 Python is my go-to for almost everything.
+* 💬 Ask me about anything!
+
+---
+
+[Website](https://portfolio.wmciesinski.org) | [LinkedIn](https://linkedin.com/in/willciesinski)
