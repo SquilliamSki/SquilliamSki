@@ -29,7 +29,3 @@
 - [MarvelSnapDailyReward](https://github.com/SquilliamSki/MarvelSnapDailyReward): script that claims the daily Marvel Snap web store rewards so I don't have to.
 
 Most of my other work lives in private repos. Happy to talk through any of it.
-
-## ⚡ Beyond work
-
-Schedule I, homelabbing, and tinkering with AI agents.
